@@ -1,0 +1,272 @@
+header {
+    background-color: red;
+    text-align: center;
+    padding: 30px; 
+    font-size: 20px;
+    word-spacing: 30px;
+    position:relative;
+}
+.Logo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+header a {
+    text-decoration-color: white;
+    color: white;
+}
+header a:hover {
+    text-decoration-color: black;
+    color: black;
+}
+body {
+    margin: 0;
+}
+.Heading1 {
+    color: black;
+    position:absolute; 
+    top: 260px;
+    left: 20px; 
+}
+.Goalie {
+    position: relative; 
+    border: 1px solid red;
+}
+.Sign-up {
+    background-color: red;
+    color:white;
+    font-size: 20px;
+    text-align: center;
+    padding: 50px;
+    margin-top: -4px;
+}
+footer {
+    background-color: black;
+    padding: 75px; 
+    margin-top: -4px;
+    text-align: center;
+    word-spacing: 20px;
+}
+.fa:hover {
+opacity: 0.5;
+}
+.fa {
+padding: 10px;
+font-size: 30px;
+width: 30px;
+text-align:center;
+text-decoration: none;
+border-radius: 50%;
+}
+.fa-facebook {
+background: #3B5998;
+color: white;
+}
+.fa-twitter {
+background: #55ACEE;
+color: white;
+}
+.fa-instagram {
+background: #125688;
+color: white;
+}
+
+header {
+    background-color: red;
+    text-align: center;
+    padding: 30px; 
+    font-size: 20px;
+    word-spacing: 30px;
+    position:relative;
+}
+.Logo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+header a {
+    text-decoration-color: white;
+    color: white;
+}
+header a:hover {
+    text-decoration-color: black;
+    color: black;
+}
+body {
+    margin: 0;
+}
+.container {
+  position:relative;
+}
+iframe {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 450px;
+  height: 350px;
+}
+
+.About {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  background-color: red;
+  width: 100%;
+  color: white;
+  font-size: 20px;
+}
+footer {
+    background-color: black;
+    padding: 75px; 
+    margin-top: -4px;
+    text-align: center;
+    word-spacing: 20px;
+}
+.fa:hover {
+opacity: 0.5;
+}
+.fa {
+padding: 10px;
+font-size: 30px;
+width: 30px;
+text-align:center;
+text-decoration: none;
+border-radius: 50%;
+}
+.fa-facebook {
+background: #3B5998;
+color: white;
+}
+.fa-twitter {
+background: #55ACEE;
+color: white;
+}
+.fa-instagram {
+background: #125688;
+color: white;
+}
+
+header {
+    background-color: red;
+    text-align: center;
+    padding: 30px; 
+    font-size: 20px;
+    word-spacing: 30px;
+    position:relative;
+}
+.Logo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+header a {
+    text-decoration-color: white;
+    color: white;
+}
+header a:hover {
+    text-decoration-color: black;
+    color: black;
+}
+body {
+    margin: 0;
+}
+div {
+   position: relative;
+
+}
+iframe {
+position:absolute;
+top: 65%;
+left: 2%;
+width: 350px;
+height: 250px;
+}
+.form {
+position:absolute;
+top: 150px;
+width: 460px;
+height: 340px;
+text-align: center;
+padding: 5px;
+left: 2%;
+color: white;
+background-color: red;
+}
+.first {
+   position:absolute;
+   top: 70px;
+} 
+.last {
+position:absolute;
+top: 110px;
+}
+.email {
+   position:absolute;
+   top: 150px;
+}  
+.send {
+   position:absolute;
+   top: 190px;
+}
+#fname {
+   left: 94px;
+   position: absolute;
+   width: 350px; 
+}
+#lname {
+   left: 94px;
+   position: absolute;
+   width: 350px;
+}
+#Eaddress {
+   position: absolute;
+   left: 94px;
+   width: 350px;
+}
+textarea {
+   position: absolute;
+   left: 94px;
+   width: 350px; 
+}
+input[type=submit] {
+   position: absolute;
+   left: 93px;
+   top: 230px;
+}
+input[type=text], textarea {
+   padding: 5px;
+   border-radius: 5px;
+   resize: vertical;   
+}
+footer {
+    background-color: black;
+    padding: 75px; 
+    margin-top: -4px;
+    text-align: center;
+    word-spacing: 20px;
+}
+.fa:hover {
+opacity: 0.5;
+}
+.fa {
+padding: 10px;
+font-size: 30px;
+width: 30px;
+text-align:center;
+text-decoration: none;
+border-radius: 50%;
+}
+.fa-facebook {
+background: #3B5998;
+color: white;
+}
+.fa-twitter {
+background: #55ACEE;
+color: white;
+}
+.fa-instagram {
+background: #125688;
+color: white;
+}
