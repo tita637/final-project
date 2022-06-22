@@ -1,0 +1,88 @@
+ header {
+     background-color: red;
+     padding: 30px;
+     font-size: 20px;
+     word-spacing: 30px;
+     position: relative;
+ }
+
+ nav {
+     margin-left: 125px;
+ }
+
+ .Logo {
+     position: absolute;
+     top: 0px;
+     left: 0px;
+ }
+
+ header a {
+     text-decoration-color: white;
+     color: white;
+ }
+
+ header a:hover {
+     text-decoration-color: black;
+     color: black;
+ }
+
+ body {
+     margin: 0;
+ }
+
+ .Heading1 {
+     color: black;
+     position: absolute;
+     top: 280px;
+     left: 20px;
+ }
+
+ .Goalie {
+     position: relative;
+     border: 1px solid red;
+ }
+
+ .Sign-up {
+     background-color: red;
+     color: white;
+     font-size: 20px;
+     text-align: center;
+     padding: 50px;
+     margin-top: -4px;
+ }
+
+ footer {
+     background-color: black;
+     padding: 75px;
+     margin-top: -4px;
+     text-align: center;
+     word-spacing: 20px;
+ }
+
+ .fa:hover {
+     opacity: 0.5;
+ }
+
+ .fa {
+     padding: 10px;
+     font-size: 30px;
+     width: 30px;
+     text-align: center;
+     text-decoration: none;
+     border-radius: 50%;
+ }
+
+ .fa-facebook {
+     background: #3B5998;
+     color: white;
+ }
+
+ .fa-twitter {
+     background: #55ACEE;
+     color: white;
+ }
+
+ .fa-instagram {
+     background: #125688;
+     color: white;
+ }
