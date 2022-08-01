@@ -2,8 +2,6 @@ const choiceButtons = document.querySelectorAll('[data-choice]')
 const column = document.querySelector('[data-column]')
 var computerPoints = document.querySelector('[data-computer-points]')
 let yourPoints = document.querySelector('[data-your-points]')
-const rock = document.createElement("img")
-rock.scr = "imgfolder/Rock.png"
 
 const Choices = [
   {
