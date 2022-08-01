@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Rock, paper, scissors</title>
+    <link rel="stylesheet" href="css folder/game.css">
+    <script src="game.js" defer></script>
+</head>
+<body>
+    <h1>Rock, paper, scissors</h1>
+    <div class="choices">
+        <button class="choice" data-choice="Rock"><img src="./imgfolder/Rock.png" id="my-image" alt="Rock" width="120"height="auto"></button>
+        <button class="choice" data-choice="Paper"><img src="./imgfolder/paper.png" alt="Paper" width="100" height="auto"></button>
+        <button class="choice" data-choice="Scissors"><img src="./imgfolder/Scissors.png" alt="Scissors" width="87" height="auto"></button>
+    </div>
+    <div class="scores">
+        <div>
+            <b>Your score:</b>
+            <span class="points" data-your-points>0</span>
+        </div>
+        <div data-column>
+            <b>Computer's score:</b>
+            <span class="points" data-computer-points>0</span>
+        </div>
+    <!--<div class="win"></div>-->
+    </div>
+</body>
+</html>

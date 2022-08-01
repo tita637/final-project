@@ -1,0 +1,33 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    text-align: center;
+}
+
+.choices {
+    text-align: center;
+}
+
+.choice {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.choice:hover {
+    transform: scale(1.3);
+}
+
+.scores {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+    align-items: center;
+}
+
+.win {
+    font-size: 1.4rem;
+}
